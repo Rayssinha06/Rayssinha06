@@ -1,0 +1,23 @@
+mport signin from "@/modulos/auth/views/signin";
+import signup from "@/modulos/auth/views/signup";
+import success from"@/modulos/auth/views/success";
+import recovery from "@/modules/auth/views/recovery";
+
+expoet default [
+
+meta:{
+
+ path "/",
+ nome: "signin"
+ componet: signin,
+ mata:{
+ layout:"auth"
+ requeresAuth: false,
+ };
+
+path:"/signup",
+nome:"signup",
+component: signup,
+meta:{
+    loyout: "auth"
+    requiresAuth: false,
