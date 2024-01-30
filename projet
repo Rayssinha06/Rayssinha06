@@ -1,0 +1,30 @@
+ Query: <ht
+# ContextLines: 1
+
+<html>
+<body class="flex flex-col h-sceen
+<main class="container mx-auto grow
+</div>
+
+<div class "mb-10">login</div>
+
+<div class"w-full">
+<form class="h-12w-full border borde-gray-200 p-3 rounded-sm
+placeholder="email"
+type="email"
+nome="email" 
+
+<input
+class"h-2 w-full border border-gray-200 p-3 rounded-sm bg
+placeholder="senha"
+type="password"
+nome=password"
+
+<button
+class="bg-blue-600 text-white px-8 py-3 rounded-lg"
+type"submit"
+
+enviar 
+</button>
+</form>
+</div>
